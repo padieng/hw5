@@ -37,5 +37,5 @@ function displayRepos(repos) {
     });
 }
 
-// Load default user (e.g., your own GitHub profile)
+
 fetchRepos('your-github-username');
